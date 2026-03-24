@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Primera.Print.PRN</name>
+    </assembly>
+    <members>
+        <member name="M:Primera.Print.PRN.PrnPrint.GetResourceStream(System.String)">
+            <summary>
+            Get the embedded resource from this assembly
+            </summary>
+            <param name="resourcePath"></param>
+            <returns>A stream of the opened embedded resource</returns>
+        </member>
+    </members>
+</doc>
