@@ -67,9 +67,11 @@ namespace DemoApp
         /// </summary>
         private IPrimeraPrinter MyPrinter => Manager.GetCollection().FirstOrDefault();
         // Ändra dessa stigar så de passar din dator
-        // FREDRIK MIRAGE DATOR private string _watchPath = @"C:\Volumes\mirage\mirage\BAT\Boutique Festival Velo Shift\DoodlesServerSetup\utskrifter";
+        // FREDRIK MIRAGE DATOR:
+        private string _watchPath = @"C:\Volumes\mirage\mirage\BAT\Boutique Festival Velo Shift\DoodlesServerSetup\utskrifter";
         // DTM PRINT COMPUTER:
-        private string _watchPath = @"C:\Users\DTM Print\Desktop\Sticker Station\1. Start Here\utskrifter";
+        // HARDCODED Change to desktop:
+       // private string _watchPath = @"C:\Users\DTM Print\Desktop\Sticker Station\1. Start Here\utskrifter";
 
         private string _finishedPath = @"C:\PrintServer\Finished";
         private string _currentFileToPrint = "";

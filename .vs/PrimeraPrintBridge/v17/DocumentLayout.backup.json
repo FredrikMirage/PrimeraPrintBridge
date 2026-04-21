@@ -7,12 +7,18 @@
       "RelativeMoniker": "D:0:0:{0AE537A4-929C-4BC8-B128-4D04B1F09562}|PrimeraPrintBridge.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AE537A4-929C-4BC8-B128-4D04B1F09562}|PrimeraPrintBridge.csproj|c:\\users\\fredr\\documents\\primera print\\mirageprinterprog\\primeraprintbridge\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0AE537A4-929C-4BC8-B128-4D04B1F09562}|PrimeraPrintBridge.csproj|C:\\Users\\fredr\\Documents\\Primera Print\\MiragePrinterProg\\PrimeraPrintBridge\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0AE537A4-929C-4BC8-B128-4D04B1F09562}|PrimeraPrintBridge.csproj|solutionrelative:properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AE537A4-929C-4BC8-B128-4D04B1F09562}|PrimeraPrintBridge.csproj|c:\\users\\fredr\\documents\\primera print\\mirageprinterprog\\primeraprintbridge\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PrimeraPrintBridge||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE537A4-929C-4BC8-B128-4D04B1F09562}|PrimeraPrintBridge.csproj|C:\\Users\\fredr\\Documents\\Primera Print\\MiragePrinterProg\\PrimeraPrintBridge\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0AE537A4-929C-4BC8-B128-4D04B1F09562}|PrimeraPrintBridge.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AE537A4-929C-4BC8-B128-4D04B1F09562}|PrimeraPrintBridge.csproj|c:\\users\\fredr\\documents\\primera print\\mirageprinterprog\\primeraprintbridge\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|cc4014f5-b18d-439c-9352-f99d984cca85"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +28,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrimeraPrintBridge",
+              "DocumentMoniker": "C:\\Users\\fredr\\Documents\\Primera Print\\MiragePrinterProg\\PrimeraPrintBridge\\PrimeraPrintBridge.csproj",
+              "RelativeDocumentMoniker": "PrimeraPrintBridge.csproj",
+              "ToolTip": "C:\\Users\\fredr\\Documents\\Primera Print\\MiragePrinterProg\\PrimeraPrintBridge\\PrimeraPrintBridge.csproj",
+              "RelativeToolTip": "PrimeraPrintBridge.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-21T12:01:54.477Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -32,14 +50,14 @@
               "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
               "ToolTip": "C:\\Users\\fredr\\Documents\\Primera Print\\MiragePrinterProg\\PrimeraPrintBridge\\Properties\\Resources.Designer.cs",
               "RelativeToolTip": "Properties\\Resources.Designer.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAwB8AAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwB8AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-20T10:47:14.125Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\fredr\\Documents\\Primera Print\\MiragePrinterProg\\PrimeraPrintBridge\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
@@ -57,7 +75,7 @@
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\fredr\\Documents\\Primera Print\\MiragePrinterProg\\PrimeraPrintBridge\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAqwEcAAABpAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwEcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T09:08:32.34Z",
               "EditorCaption": ""

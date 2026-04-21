@@ -23,3 +23,7 @@ C:\Users\fredr\Documents\Primera Print\MiragePrinterProg\PrimeraPrintBridge\obj\
 C:\Users\fredr\Documents\Primera Print\MiragePrinterProg\PrimeraPrintBridge\obj\Debug\PrimeraPrintBridge.exe
 C:\Users\fredr\Documents\Primera Print\MiragePrinterProg\PrimeraPrintBridge\obj\Debug\PrimeraPrintBridge.pdb
 C:\Users\fredr\Documents\Primera Print\MiragePrinterProg\PrimeraPrintBridge\obj\Debug\PrimeraPrintBridge.exe.config
+C:\Users\fredr\Documents\Primera Print\MiragePrinterProg\PrimeraPrintBridge\bin\Debug\PrimeraPrintBridge.exe.manifest
+C:\Users\fredr\Documents\Primera Print\MiragePrinterProg\PrimeraPrintBridge\bin\Debug\PrimeraPrintBridge.application
+C:\Users\fredr\Documents\Primera Print\MiragePrinterProg\PrimeraPrintBridge\obj\Debug\PrimeraPrintBridge.exe.manifest
+C:\Users\fredr\Documents\Primera Print\MiragePrinterProg\PrimeraPrintBridge\obj\Debug\PrimeraPrintBridge.application
